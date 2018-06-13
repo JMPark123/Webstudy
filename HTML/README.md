@@ -1,5 +1,5 @@
 # web1
-![index 페이지 화면 캡쳐](https://drive.google.com/open?id=1UFEao5SxIam4Cw-CI2o2AnCUo1JlI4y_)
+![index 페이지 화면 캡쳐](http://drive.google.com/uc?export=view&id=1UFEao5SxIam4Cw-CI2o2AnCUo1JlI4y_)
 
 
 ### ● 개요
